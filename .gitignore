@@ -1,0 +1,25 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.env
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Django
+db.sqlite3
+/media/
+
+# Docker
+*.log
+*.pid
+*.swp
+.dockerignore
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.iml
